@@ -34,10 +34,9 @@ I enjoy working with C++, Java, and modern web technologies to create scalable, 
 ---
 
 ## 🔹 Problem-Solving
-- **LeetCode:**](https://leetcode.com/Dimpal_bashera/)(35+ problems solved)
+- **LeetCode:* (https://leetcode.com/u/Dimpal_bashera/)
 
 
----
 
 ## 🔹 Connect With Me
 - 
